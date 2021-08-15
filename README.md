@@ -1,2 +1,2 @@
-# Titanic
- Kaggle Titanic
+#  Kaggle Titanic
+利用随机森林模型对泰坦尼克号的乘客进行预测，准确率排名前20%
